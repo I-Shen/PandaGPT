@@ -3,7 +3,7 @@ import dashscope
 from dashscope import Generation
 
 # API Key DashScope
-DASHSCOPE_API_KEY = 'sk-73a711d8f68843de8632020b738d9545'
+DASHSCOPE_API_KEY = 'YOUR_API_KEY_MODELSTUDIOALIBABA'
 dashscope.base_http_api_url = 'https://dashscope-intl.aliyuncs.com/api/v1'
 
 # Styling CSS
